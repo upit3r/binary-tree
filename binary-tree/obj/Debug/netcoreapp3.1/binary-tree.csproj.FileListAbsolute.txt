@@ -1,0 +1,13 @@
+C:\Users\Stanislav'\net\binary-tree\binary-tree\bin\Debug\netcoreapp3.1\binary-tree.exe
+C:\Users\Stanislav'\net\binary-tree\binary-tree\bin\Debug\netcoreapp3.1\binary-tree.deps.json
+C:\Users\Stanislav'\net\binary-tree\binary-tree\bin\Debug\netcoreapp3.1\binary-tree.runtimeconfig.json
+C:\Users\Stanislav'\net\binary-tree\binary-tree\bin\Debug\netcoreapp3.1\binary-tree.runtimeconfig.dev.json
+C:\Users\Stanislav'\net\binary-tree\binary-tree\bin\Debug\netcoreapp3.1\binary-tree.dll
+C:\Users\Stanislav'\net\binary-tree\binary-tree\bin\Debug\netcoreapp3.1\binary-tree.pdb
+C:\Users\Stanislav'\net\binary-tree\binary-tree\obj\Debug\netcoreapp3.1\binary-tree.csprojAssemblyReference.cache
+C:\Users\Stanislav'\net\binary-tree\binary-tree\obj\Debug\netcoreapp3.1\binary-tree.AssemblyInfoInputs.cache
+C:\Users\Stanislav'\net\binary-tree\binary-tree\obj\Debug\netcoreapp3.1\binary-tree.AssemblyInfo.cs
+C:\Users\Stanislav'\net\binary-tree\binary-tree\obj\Debug\netcoreapp3.1\binary-tree.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav'\net\binary-tree\binary-tree\obj\Debug\netcoreapp3.1\binary-tree.dll
+C:\Users\Stanislav'\net\binary-tree\binary-tree\obj\Debug\netcoreapp3.1\binary-tree.pdb
+C:\Users\Stanislav'\net\binary-tree\binary-tree\obj\Debug\netcoreapp3.1\binary-tree.genruntimeconfig.cache
